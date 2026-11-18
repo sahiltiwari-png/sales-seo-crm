@@ -28,3 +28,6 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Architecture decisions
+- Store sales and SEO items in the owner-scoped `public.studio_records` table with section/type fields and JSONB details; one shared record model avoids duplicate structures for closely related CRM entries.

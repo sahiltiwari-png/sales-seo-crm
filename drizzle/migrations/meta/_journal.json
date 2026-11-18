@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795008696490,
+      "tag": "0000_create_first_talk_crm_records",
+      "breakpoints": true
+    }
+  ]
+}
