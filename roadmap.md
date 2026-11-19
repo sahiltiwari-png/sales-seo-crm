@@ -1,0 +1,3 @@
+- [ ] Finish The First Talk CRM home screen, branded styling, and SEO foundations.
+- [ ] Fix reported type errors and verify the preview shows the CRM at `/`.
+- [ ] Check the authenticated workspace and core record actions when a usable preview session is available.
